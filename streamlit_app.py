@@ -6,7 +6,7 @@ from PIL import Image
 import gdown
 
 # Google Drive 파일 ID
-file_id = '1NKIhMhUeRC0vPptHwT4it-LMYhamVDyi'
+file_id = '1B1XpPdBOVZL1GqABV3M0BtV60zJLyHZW'
 
 # Google Drive에서 파일 다운로드 함수
 @st.cache(allow_output_mutation=True)
@@ -88,7 +88,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "Label 1 "불닭먹고싶다",
+            "Label 1 불닥먹고싶.",
             "Label 1 관련 두 번째 텍스트 내용입니다.",
             "Label 1 관련 세 번째 텍스트 내용입니다."
         ]
@@ -105,7 +105,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "Label 2 마라탕도 먹고싶다다.",
+            "Label 2 마라탕도 먹고싶.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -122,7 +122,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "Label 3 음.. 짬뽕도?.",
+            "Label 3 짬뽕도.",
             "Label 3 관련 두 번째 텍스트 내용입니다.",
             "Label 3 관련 세 번째 텍스트 내용입니다."
         ]
