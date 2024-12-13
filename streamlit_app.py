@@ -85,7 +85,7 @@ content_data = {
         'videos': [
             "https://youtu.be/srvL8tPKlo4?feature=shared",
             "https://youtu.be/Ra0y1PjUe-Y?feature=shared",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/PQjqxJgXqyU?feature=shared"
         ],
         'texts': [
             "Label 1 작품1 .",
