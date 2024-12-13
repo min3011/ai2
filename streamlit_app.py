@@ -88,26 +88,26 @@ content_data = {
             "https://youtu.be/PQjqxJgXqyU?feature=shared"
         ],
         'texts': [
-            "Label 1 작품1 .",
-            "Label 1 작품2.",
-            "Label 1 작품3."
+            "Label 1 작품1 밥 잘 사주는 예쁜 누나 .",
+            "Label 1 작품2 그 해 우리는.",
+            "Label 1 작품3 멜로가 체질."
         ]
     },
     labels[1]: {
         'images': [
-            "https://i.ibb.co/j39jBPc/common.jpg",
-            "https://i.ibb.co/j5879vN/common-1.jpg",
-            "https://i.ibb.co/7K5B48L/common-2.jpg"
+            "https://i.ibb.co/NNYDV2Q/common.jpg",
+            "https://i.ibb.co/Q9ngtZ1/common-3.jpg",
+            "https://i.ibb.co/D5GYn2Q/common-2.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://youtu.be/Lwr0nn0Hcps?feature=shared",
+            "https://youtu.be/P3F_ydSlTMs?feature=shared",
+            "https://youtu.be/TQUsLhMMVa0?feature=shared"
         ],
         'texts': [
-            "Label 2 마라탕도 먹고싶.",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "Label 2 작품1 사랑의 불시착.",
+            "Label 2 작품2 THE K2.",
+            "Label 2 관련 복수가 돌아왔다."
         ]
     }
 
