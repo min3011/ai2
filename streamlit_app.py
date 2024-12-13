@@ -78,9 +78,9 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/j39jBPc/common.jpg",
+            "https://i.ibb.co/j5879vN/common-1.jpg",
+            "https://i.ibb.co/7K5B48L/common-2.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
