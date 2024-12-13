@@ -83,8 +83,8 @@ content_data = {
             "https://i.ibb.co/7K5B48L/common-2.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://youtu.be/srvL8tPKlo4?feature=shared",
+            "https://youtu.be/Ra0y1PjUe-Y?feature=shared",
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
